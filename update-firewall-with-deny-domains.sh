@@ -1,6 +1,6 @@
-#! /bin/bash
+#!/bin/bash
 
-set -eux
+set -eu
 
 router_name="main-vpc-router"
 zone="is1b"
